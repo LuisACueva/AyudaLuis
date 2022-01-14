@@ -11,7 +11,7 @@ public class PrincipalLuis {
 		Rol rol;
 		String usu;
 		String pas;
-		// TODO Auto-generated method stub
+		
 		do {
 			System.out.println("Indique su tipo de usuario:");
 			System.out.println("1: Directiva de la federacion.");
