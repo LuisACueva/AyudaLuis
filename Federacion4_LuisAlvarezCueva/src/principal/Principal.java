@@ -10,7 +10,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		Datos.cerrarResultados();
-		System.out.println("INICIO");
+		System.out.println("INICIO DE LA APLICACION");
 		
 		//Ejercicio EXAMEN2
 		System.out.println("\nEjercicio EXAMEN2:");
